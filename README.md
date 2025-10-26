@@ -45,3 +45,5 @@
 ### Сборка
 ```bash
 mvn -q -DskipTests package
+```
+*Документация подготовлена: Артём Карелин (https://github.com/Smaug05 ) tg (@ArtemKarjalainen)*

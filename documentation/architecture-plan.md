@@ -38,4 +38,4 @@ graph TB
 
 ```
 
-*Документация подготовлена: Артём Карелин (https://github.com/Smaug05)*
+*Документация подготовлена: Артём Карелин (https://github.com/Smaug05 ) tg (@ArtemKarjalainen)*
