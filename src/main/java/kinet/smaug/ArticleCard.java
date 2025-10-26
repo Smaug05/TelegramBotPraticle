@@ -1,4 +1,3 @@
 package kinet.smaug;
 
-public class ArticleCard {
-}
+public record ArticleCard(String title, String url, String imageUrl, String summary) {}
